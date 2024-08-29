@@ -13,6 +13,8 @@
   
   "valid_url": "🚫 *Please enter Valid Movie url*",
 
+  "size_big": "*File size is too big...*",
+
   "own_cmd": "This is Owner command",
 
   "erro": "Error" 
