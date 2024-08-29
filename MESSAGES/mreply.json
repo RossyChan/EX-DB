@@ -22,7 +22,8 @@
 
 "react": {
 
-  "erro": "❌"
+  "erro": "❌",
+  "giveme": "❓"
 }
 
 }
