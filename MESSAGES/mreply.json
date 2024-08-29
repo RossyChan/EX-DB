@@ -5,8 +5,21 @@
   
 "replyMsg": {
   
-  "giveme":"Please give me text 🤦‍♂️",
- "not_f":"i"
+  "giveme": "Please give me text 🤦‍♂️",
+
+  "not_fo": "*❌ I couldn't find anything :(*",
+  
+  "valid_url": "🚫 *Please enter Valid Movie url*",
+
+  "own_cmd": "This is Owner command",
+
+  "erro": "Error" 
+}
+
+"react": {
+
+  "erro": "❌"
+}
 
 }
 }
