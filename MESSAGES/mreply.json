@@ -8,11 +8,11 @@
   
   "giveme": "*Please give text ❓*",
 
-  "giveut": "*Please give me Url ❓*",
+  "giveut": "*Please give me Url or Text ❓*",
 
   "not_fo": "*❌ I Couldn't find anything :(*",
 
-  "url": "Url akak dipan hut",
+  "url": "*Please give me Url ❓*",
   
   "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
 
