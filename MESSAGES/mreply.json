@@ -6,23 +6,23 @@
   
 "replyMsg": {
   
-  "giveme": "Mokak hari text ekak dipan pacooo...!",
+  "giveme": "*Please give text ❓*",
 
-  "giveut": "url or text akak dipan pamkoo",
+  "giveut": "*Please give me Url ❓*",
 
-  "not_fo": "*❌ I couldn't find anything :(*",
+  "not_fo": "*❌ I Couldn't find anything :(*",
 
   "url": "Url akak dipan hut",
   
-  "valid_url": "Meka weradi hari akak dipan pacoo...",
+  "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
 
-  "size_big": "*File size is too big...*",
+  "size_big": "*File size is too big ❌*",
 
-  "own_cmd": "Ubata weda nh plyn",
+  "own_cmd": "*This is Owner Commad ‼*",
 
-  "pre_cmd": "Calli Dila Ganin Paco",
+  "pre_cmd": "*Your not premier user ❗*",
 
-  "band_users": "❌ *You are banned from using Commands.....* ⚠️\n\n*_Please contact Bot Owner or Moderator to Remove your Ban_* 👨‍🔧\n",
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
 
   "erro": "Error" 
 }
