@@ -1,0 +1,52 @@
+{
+  "ar": [
+    {
+      "trigger": "hi",
+      "response": "Hlo"
+    },
+    {
+      "trigger": "hello",
+      "response": "Hlo"
+    },
+    {
+      "trigger": "komada",
+      "response": "I'm fine, thank you!"
+    },
+    {
+      "trigger": "good morning",
+      "response": "Goom morning"
+    },
+    {
+      "trigger": "Gm",
+      "response": "Goom morning"
+    },
+    {
+      "trigger": "Good night",
+      "response": "Goom night"
+    },
+    {
+      "trigger": "Gn",
+      "response": "Goom night"
+    },
+    {
+      "trigger": "puka sududa",
+      "response": "Ne thalelui"
+    },
+    {
+      "trigger": "Mk",
+      "response": "Mukut ne ani"
+    },
+    {
+      "trigger": "moko karanne",
+      "response": "online indan pol ganawa anii.."
+    },
+    {
+      "trigger": "Ayo",
+      "response": "ow!"
+    },
+    {
+      "trigger": "ee",
+      "response": "ow!"
+    },
+  ]
+}
