@@ -1,8 +1,8 @@
 {
 
-"BOT_NAME": "FROZEN-MD",
-"VERSION": "2.0.0",
-"CREATED BY": "DARKYASIYAXTEAM",
+"BOT_NAME": "FK-MD",
+"VERSION": "1.0.0",
+"CREATED BY": "PUKA KALU EWUN BALANNA EPA",
   
 "replyMsg": {
   
@@ -20,7 +20,7 @@
 
   "own_cmd": "*This is Owner Commad ‼*",
 
-  "pre_cmd": "`Your not premier user` 🚫\n\n* Contact to buy a premium connection for 200 rupees for a month 🌿 \n\n* https://wa.me//+94743548986 💝 ",
+  "pre_cmd": "`Your not premier user` 🚫\n\n* Contact to buy a premium connection for 200 rupees for a month 🌿 \n\n* https://wa.me//PUKA SUDDA 💝 ",
 
   "ald_set": "Denatamat harii ❌",
 
@@ -30,7 +30,7 @@
 
   "you_adm": "Your Must Be Admin First 😒",
 
-  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FK-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
 
   "erro": "Error" 
 }
